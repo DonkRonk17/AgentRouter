@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e7e1f249-e99c-45a2-86b2-38ea63d81de9" />
+
 # AgentRouter v1.0
 
 **Intelligent Task Routing for Team Brain**
@@ -604,6 +606,9 @@ pip install .
 ```
 
 ---
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7f3f6ce6-3334-45a3-8615-84f6a424c010" />
+
 
 ## 🤝 **Contributing**
 
