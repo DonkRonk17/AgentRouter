@@ -1,0 +1,17 @@
+# AgentRouter - Requirements
+# ========================
+#
+# AgentRouter uses ONLY Python standard library!
+# No external dependencies required.
+#
+# This file exists to document that fact and for pip compatibility.
+#
+# Standard Library Modules Used:
+# - json (data serialization)
+# - pathlib (file path handling)
+# - typing (type hints)
+# - dataclasses (data structures)
+# - collections (defaultdict)
+# - argparse (CLI interface)
+#
+# Zero Dependencies - Works out of the box with Python 3.8+
